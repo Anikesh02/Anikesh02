@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+
 <!--
 **Anikesh02/Anikesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,6 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F3F739&background=000000&center=true&vCenter=true&random=false&width=435&lines=Hi%2C++Anikesh+Here!;A+passionate+programmer+from;Atharva+College+of+Engineering)](https://git.io/typing-svg)
+
 <!--
 **Anikesh02/Anikesh02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -11,7 +11,7 @@
 
 - 💬 Let's Discuss about **HTML, ReactJs Tailwind CSS, JavaScript, C, C++, GO, Python**
 
-- ♟ Wanna Play Chess? Send me a Friend Request at [![Chess.com] (https://www.chess.com/member/anikesh0204)]
+- ♟ Wanna Play Chess? Send me a Friend Request at https://www.chess.com/member/anikesh0204
 
 - ✔ Eager to Transform Creative Ideas into Functional Code
 

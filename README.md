@@ -1,7 +1,7 @@
 <h1 align="center">Hello People 👋, Anikesh Here!</h1>
 
 <h3 align="center">A Passionate Programmer from Mumbai University.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/bWS1Vh9mVkcZq/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/XxMTS8OOwl59C/giphy.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank">
   <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a>

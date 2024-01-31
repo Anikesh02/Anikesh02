@@ -9,7 +9,7 @@
 
 - 👨‍💻 I’m currently learning **ReactJS, ML, Data Science, Java**
 
-- 💬 Let's Discuss about **HTML, ReactJs Tailwind CSS, JavaScript, C, C++, GO, Python**
+- 💬 Let's Discuss about **ReactJs Tailwind CSS, JavaScript, C, C++, GO, Python**
 
 - ♟ Wanna Play Chess? Send me a Friend Request at https://www.chess.com/member/anikesh0204
 

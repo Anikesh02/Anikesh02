@@ -25,6 +25,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikesh02&show_icons=true&locale=en&layout=compact" alt="anikesh02" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikesh02&show_icons=true&locale=en" alt="anikesh02" /></p>
 
+## 🗓️ Contribution Graph
+![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=anikesh02&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anikesh02&theme=dracula&no-frame=false&no-bg=false&margin-w=4)

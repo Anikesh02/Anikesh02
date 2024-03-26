@@ -28,7 +28,5 @@
 ## 🗓️ Contribution Graph
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=anikesh02&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anikesh02&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---

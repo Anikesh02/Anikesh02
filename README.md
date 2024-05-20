@@ -17,7 +17,6 @@
 
 <div align="center">
 <span>
-<a href="https://github.com/Anchit-Nayak" target="_blank">
 <img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api/top-langs/?username=Anikesh02&layout=compact&langs_count=8&theme=github_dark&hide=SCSS,GLSL,GAP&border_color=404040" alt="My Github Top Languages" />
 <img height="173" src="https://github-readme-stats-redheadphone.vercel.app/api?username=Anikesh02&show_icons=true&count_private=true&theme=github_dark&border_color=404040" alt="Anikesh Kulal Github Stats" />
 </a>

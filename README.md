@@ -21,6 +21,12 @@
 ## ⭐ Open Source Badges: 
 [![An image of @anikesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anikesh)](https://holopin.io/@anikesh)
 
+## 👨‍💻 CP Profiles
+
+<a href="https://www.leetcode.com/anikeshkulal02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anikesh02" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anikeshkulal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anikeshkulal" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anikeshkulal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anikeshkulal" height="30" width="40" /></a>
+
 ## 🗓️ Contribution Graph
 ![contribution-graph](https://github-readme-activity-graph.vercel.app/graph?username=anikesh02&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true)
 

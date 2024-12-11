@@ -20,7 +20,7 @@
 
 ## 👨‍💻 CP Profiles
 <a href="https://www.leetcode.com/anikeshkulal02" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anikesh02" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/anikeshkulal" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anikeshkulal" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/anikeshkulal" target="blank"><img align="center" title="CodeChef" src="https://github.com/iffatul-anon/iffatul-anon/blob/main/cc%20logo.png" alt="iffatulanon" height="30" width="35" /></a>
 <a href="https://auth.geeksforgeeks.org/user/anikeshkulal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anikeshkulal" height="30" width="40" /></a>
 
 ## ⭐ Open Source Badges: 

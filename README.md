@@ -5,9 +5,9 @@
 
 
 
-- 👨‍💻 I’m currently learning **Next.js, ML, Data Science and AWS**
+- 👨‍💻 I’m currently learning **Springboot and Microservices**
 
-- 💬 Let's Discuss about **ReactJs, Three Js, R3F, Tailwind CSS, JavaScript, C, C++, GO, Python**
+- 💬 Let's Discuss about **ReactJs, Three Js, R3F, Tailwind CSS, JavaScript, Java, C, C++, GO, Python**
 
 - ♟ Wanna Play Chess? Send me a Friend Request at https://www.chess.com/member/anikesh0204
 
